@@ -1,0 +1,2 @@
+sudo -u postgres pg_dump store >goods.sql - dump db
+sudo -u postgres psql - connect to postgresql as postgre user
